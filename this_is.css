@@ -1,0 +1,15 @@
+.widget_border{
+  background-color:#F0E68C; 
+  width: 800px;
+  height: 200px;
+  outline: 3px solid #000;
+}
+
+p {
+	font-size: 20px;
+	text-align:justify;
+	margin-left: 20px;
+	margin-right:20px;
+	margin-bottom:20px;
+	margin-top:20px;    
+}
